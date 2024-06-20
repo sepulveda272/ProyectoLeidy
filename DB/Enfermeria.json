@@ -1,0 +1,187 @@
+{
+    "Enfermeria": [
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                33802
+            ],
+            "Nombre": "MONITOR ELECTRONICO CON UNIDAD DE MEMORIA MOD CPARLENE LF 03402 SERIE 48S Y B BACTERIAS",
+            "Cantidad": 1,
+            "Marca": "NASCO",
+            "Funcion": "El monitor electrónico con unidad de memoria modelo CPARLENE LF 03402, serie 48S y B bacterias, se utiliza para monitorear y registrar datos relacionados con la esterilización en entornos médicos",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                61209
+            ],
+            "Nombre": "MANIQUI RESUSCI ANNE CUERPO COMPLETO CON MONITOR DE SEÑALES  PARA COMPRESION, VENTILACION Y CORRECTA POSICION DE MANOS TIENE LOS SIGUIENTES MODULOS, KIT DE ESTRICACION, KIT DE TRAUMA-PIERNA CONTROL H",
+            "Cantidad": 1,
+            "Marca": "NA",
+            "Funcion": "Modelo de Resusci Anne representa a un adulto con una fisiología promedio y está creado para ofrecer una capacitación realista en técnicas básicas de soporte vital . Resusci Anne QCPR se presenta en un bolso práctico. El maniquí incluye dos resortes torácicos adicionales (uno ligero y otro pesado) que amplían el rango de la fuerza necesaria para comprimir el tórax hasta la profundidad correcta. Esto permite a los estudiantes practicar las compresiones de manera más realista, teniendo en cuenta que la rigidez torácica de los pacientes puede variar.",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                61210
+            ],
+            "Nombre": "MANIQUI RESUSCI ANNE PARA DEA CON CAJA SEÑALES",
+            "Cantidad": 1,
+            "Marca": "NA",
+            "Funcion": "Ofrece el máximo realismo en la práctica de la RCP con características como la obstrucción natural de la vía aérea, que requiere hiperextensión; marcas anatómicas para identificar el punto de masaje; pulso carotídeo simulado; y un sistema higiénico que minimiza el mantenimiento del maniquí.",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                61211
+            ],
+            "Nombre": "MANIQUI SIMULADORES TRANSPORTABLES MULTIPROPOSITO PATIENT KELLY",
+            "Cantidad": 1,
+            "Marca": "NA",
+            "Funcion": "Es un maniquí  diseñado para simular y practicar procedimientos de cuidado del paciente, incluyendo la evaluación de heridas, la auscultación de sonidos y la medición de la presión arterial.",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                61212
+            ],
+            "Nombre": "MANIQUI RESUSCI BABY CON CAJA DE SEÑALES",
+            "Cantidad": 1,
+            "Marca": "NA",
+            "Funcion": "Viene con una caja de señales que indica si la ventilación es correcta, excesiva o demasiado rápida, y si la compresión es correcta, excesiva o fuera de la zona adecuada.",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                61213,
+                61214
+            ],
+            "Nombre": "BRAZO PEDIATRICO",
+            "Cantidad": 2,
+            "Marca": "NA",
+            "Funcion": "Permite la práctica de acceso intravenoso, infusión, extracción de sangre, y la administración de inyecciones intramusculares y subcutáneas. Es anatómicamente preciso y tiene venas simuladas en las ubicaciones correctas. Con una bomba manual, se pueden simular venas colapsadas o distendidas",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                147214
+            ],
+            "Nombre": "BASCULA DIGITAL PISO 180KL REFERENCIA 800KL",
+            "Cantidad": 1,
+            "Marca": "HEALTH O METER",
+            "Funcion": "Báscula de piso digital con una plataforma de perfil bajo que requiere un paso mínimo, proporcionando al paciente una experiencia de pesaje más cómoda y estable.",
+            "Procedencia": "NACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                156379
+            ],
+            "Nombre": "SIMULADOR  EQUIPO ADVANCED VENIPUNCTURE ANO INJECTION ARM-LIGTH LF01121U",
+            "Cantidad": 1,
+            "Marca": "NASCO",
+            "Funcion": "Este innovador brazo de entrenamiento ofrece acceso venoso completo para terapia intravenosa, flebotomía, así como inyecciones intramusculares e intradérmicas.",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                156380
+            ],
+            "Nombre": "SIMULADOR BRAZO DE DEMOSTRACION DE VENOPUNCION E INYENCION LIFE-FORM LIGERO LFD1131U",
+            "Cantidad": 1,
+            "Marca": "NASCO",
+            "Funcion": "El brazo de entrenamiento de venopunción e inyección son perfectos para enseñar técnicas de venopunción e inyección, incluidas las IV iniciales. La piel se mueve al palpar la vena, y se puede percibir el distintivo (estallido) cuando la aguja penetra en la vena.",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                156381
+            ],
+            "Nombre": "SIMULADOR CATETERISMO SIMULADOR MASCULINO LIFE-FORM LF00855",
+            "Cantidad": 1,
+            "Marca": "NASCO",
+            "Funcion": "Este simulador permite la demostración y práctica del cateterismo urinario para el paciente.",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                156382
+            ],
+            "Nombre": "SIMULADOR CATETERISMO SIMULADOR FEMENINO LIFE-FORM LF00856",
+            "Cantidad": 1,
+            "Marca": "NASCO",
+            "Funcion": "Este simulador permite la demostración y práctica del cateterismo urinario para el paciente.",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                156383,
+                15684
+            ],
+            "Nombre": "SIMULADOR ENEMA ADMINISTRACION LIFE-FORM LF0095U",
+            "Cantidad": 2,
+            "Marca": "NASCO",
+            "Funcion": "Facilitar la evacuación de las heces mediante la administración de líquido, a través del esfínter anal, en el recto y en la parte inferior del intestino, con una finalidad terapéutica",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                163218
+            ],
+            "Nombre": "MEDIDOR DE OXIGENO CO200 MIDE TEMPERATURA DEL AIRE,HUMEDAD, FECHA Y HORA",
+            "Cantidad": 1,
+            "Marca": "EXTECH",
+            "Funcion": "Este mide la concentración de CO2, la temperatura del aire y la humedad relativa. El CO200 incluye un registrador de datos de 99 memorias para guardar y recuperar lecturas con fecha y sello de hora.",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                16616
+            ],
+            "Nombre": "SIMULADOR DE SUTURAS REF.IF -01028U",
+            "Cantidad": 1,
+            "Marca": "NA",
+            "Funcion": "Se emplea para practicar y mejorar las técnicas de sutura. Es una herramienta didáctica que facilita a estudiantes y profesionales de la salud el desarrollo de sus habilidades en la ejecución de suturas de forma segura y efectiva antes de aplicarlas en contextos clínicos reales.",
+            "Procedencia": "INTERNACIONAL"
+        },
+        {
+            "Nombre_Laboratorio": "SIMULACION DE ENFERMERIA",
+            "Responsable": "Leidy Rueda",
+            "Inventario": [
+                262182,
+                262183
+            ],
+            "Nombre": "PULSO OXIMETRO JUMPER",
+            "Cantidad": 2,
+            "Marca": "JUMPER",
+            "Funcion": "El oxímetro de pulso Jumper se utiliza para medir la saturación de oxígeno en la sangre y la frecuencia del pulso de una manera no invasiva. Es una herramienta útil para monitorear la salud respiratoria de los pacientes",
+            "Procedencia": "INTERNACIONAL"
+        }
+    ]
+}

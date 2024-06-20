@@ -1,0 +1,293 @@
+{
+    "Fisioterapia": [
+        {
+            "Nombre_Laboratorio": "DIAGNOSTICO",
+            "Responsable": "Lyda Maritza Diaz Plata",
+            "Inventario": [
+                154979
+            ],
+            "Nombre": "MOTOMED LOOOP.LA. ",
+            "Cantidad": 1,
+            "Marca": "MOTOMED LOOOP",
+            "Funcion": "Entrenamiento pasivo, asistido y activo,cambio de modo de entrenamiento de piernas a brazos mediante la pantalla táctil,Pre-ajuste del tiempo de terapia de 0 a 120 minutos.Programa de detección y reducción de espasmos ",
+            "Procedencia": "Exterior-España"
+        },
+        {
+            "Nombre_Laboratorio": "CALIBRACIÓN ",
+            "Responsable": "Maria Solange Patiño",
+            "Inventario": [
+                62178
+            ],
+            "Nombre": "AUTOCLAVE MARCA ALL AMERICAN, CAPACIDAD 25 LITROS. ",
+            "Cantidad": 1,
+            "Marca": "ALL AMERICAN ",
+            "Funcion": "Esterilizadores operan de forma automática, controlado por un termostato y la luz piloto; sólo requieren una pequeña cantidad de agua para crear el vapor seco ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA Y MOTRICIDAD ",
+            "Responsable": "Maria Solange Patiño",
+            "Inventario": [
+                119571
+            ],
+            "Nombre": "TROTADORA T-700AC. ",
+            "Cantidad": 1,
+            "Marca": "N/A",
+            "Funcion": "Trotadora podrás realizar diferentes tipos de ejercicios, gracias a sus programas de entrenamiento, niveles de inclinación y con el complemento de la información que muestra en su pantalla, te ayudara a mejorar tu salud, fortalecer tus músculos ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA ",
+            "Responsable": "Maria Solange Patiño",
+            "Inventario": [
+                124081
+            ],
+            "Nombre": "BICICLETA RECUMBENT PARA TRAFICO PESADO. ",
+            "Cantidad": 1,
+            "Marca": "RECUMBENT",
+            "Funcion": "Los pedales autonivelantes facilitan la colocación de los pies en las correas maximizando sus entrenamientos con el sistema de control de tensión magnético ajustable de 8 niveles. Realice un seguimiento del progreso de su entrenamiento con el monitor digital LCD que muestra: escaneo, tiempo, velocidad, distancia, calorías, odómetro y frecuencia cardíaca.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA ",
+            "Responsable": "Javier Parra",
+            "Inventario": [
+                91541
+            ],
+            "Nombre": "BALANZA O PESO MARCA HEALTH O METER CAPACIDAD 200 KG ",
+            "Cantidad": 1,
+            "Marca": "HEALTH",
+            "Funcion": "Bascula capacidad de hasta 200 KG ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA ",
+            "Responsable": "Javier Parra",
+            "Inventario": [
+                119570
+            ],
+            "Nombre": "MULTIGIMNASIO EVO4000. ",
+            "Cantidad": 1,
+            "Marca": "N/A",
+            "Funcion": "Guaya industrial de 4.8mm hilado con cable de acero recubiertos en nylon,Carcasas protectoras de torres de peso,2 torres de peso de 140lb (70kg) cada una, Estructura: Metalica de alta resistencia, acero inoxidable, pintura electroestatica. ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA ",
+            "Responsable": "Wilson Lozano",
+            "Inventario": [
+                60000
+            ],
+            "Nombre": "SUCCIONADOR PORTATIL REFERENCIA 1130 ",
+            "Cantidad": 1,
+            "Marca": "THOMAS ",
+            "Funcion": "FRASCO DE VIDRIO -CAPACIDAD: 500 cc. PARA SUCCIONADOR: 1130 GL, 1134 DC-GL 1630 GL Y 1634DC/GL ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA ",
+            "Responsable": "Maria Solange Patiño",
+            "Inventario": [
+                124089
+            ],
+            "Nombre": "SISTEMA DE PEDALES CON RESISTENCIA MAGNETICA. ",
+            "Cantidad": 1,
+            "Marca": "N/A",
+            "Funcion": "Frenan mediante un imán que se acerca o se aleja de la rueda de inercia dependiendo de la posición en la que coloques el pomo o la palanca de la bici ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA ",
+            "Responsable": "Javier Parra",
+            "Inventario": [
+                62187
+            ],
+            "Nombre": "CICLOERGOMETRO MARCA MONARK, MODELO 874E, (WEIGHT ERGOMETER) PARA VALORACIONES Y PRUEBAS FISICAS ",
+            "Cantidad": 1,
+            "Marca": "N/A",
+            "Funcion": "manejar las cargas más pesadas y extremas, los ciclómetros Monark están diseñados para pruebas exigentes y escenarios de entrenamiento dentro del deporte y la medicina. ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "DINAMOMETRIA",
+            "Responsable": "Maria Solange Patiño",
+            "Inventario": [
+                129259
+            ],
+            "Nombre": "BICICLETA SPINK RECUMBERT FOREVERFIT ",
+            "Cantidad": 1,
+            "Marca": "N/A",
+            "Funcion": "Posición del cuerpo reclinado,Pedales posicionados delante del cuerpo,Asiento más grande,Soporte completo para la espalda.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "DINAMOMETRIA",
+            "Responsable": "Maria Solange Patiño",
+            "Inventario": [
+                81082
+            ],
+            "Nombre": "BALANZA TIPO PESADO ELECTRONICA, PLATAFORMA ACERO: 70CM X 45 CMS DIVISION 100 GR ",
+            "Cantidad": 1,
+            "Marca": "MORESCO",
+            "Funcion": "Instrumentos de pesaje de funcionamiento no automático que utilizan la acción de la gravedad para determinación de la masa. ",
+            "Procedencia": "Exterior-Alemania"
+        },
+        {
+            "Nombre_Laboratorio": "DINAMOMETRIA",
+            "Responsable": "Lyda Maritza Diaz Plata",
+            "Inventario": [
+                115789
+            ],
+            "Nombre": "DINAMOMETRO ISOKINETICO - ESC DE FISIOTERAPIA,LICIT PUBLIC NRO 047 DE 2014, ELEMENTOS 1 COMPUT HP(MXL 43711QV), 1 IMPRESORA H.P; REGULADOR CSMI; 4 PESAS; 1 MESA TRANSPORTADORA; 11 ACCESORIOS. ",
+            "Cantidad": 1,
+            "Marca": "CSMI",
+            "Funcion": "Permiten la evaluación del movimiento de abducción y aducción en el plano transverso a partir de una flexión de 90°. ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "INTERVENCIÓN FISICA",
+            "Responsable": "Lyda Maritza Diaz Plata",
+            "Inventario": [
+                14226
+            ],
+            "Nombre": "SISTEMA DE TRACCION CERVICAL HORIZONTAL MOD TX-7 SERIE # 4247 ",
+            "Cantidad": 1,
+            "Marca": "CHATTANOOGA",
+            "Funcion": "técnicas de fisioterapia y rehabilitación, especialmente en patologías de columna existe un variedad de métodos de tratamiento que permiten mejorar las condiciones de las estructuras de la columna afectada. ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "INTERVENCIÓN FISICA",
+            "Responsable": "Lyda Maritza Diaz Plata",
+            "Inventario": [
+                61756
+            ],
+            "Nombre": "DIATERMIA DE ONDA CORTA. 27. 12 MHZ, MODO DE OPERACION CONTINUO Y PULSADO CON ELECTRODOS INCLUIDOS, MARCA DIATHERAPIC ",
+            "Cantidad": 1,
+            "Marca": "DIATHERAPIC",
+            "Funcion": "Aliviar el dolor y recuperar la movilidad de pacientes con problemas ortopédicos, hasta ayudar en la recuperación de pacientes que sufrieron un derrame cerebral. ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "INTERVENCIÓN FISICA",
+            "Responsable": "Lyda Maritza Diaz Plata",
+            "Inventario": [
+                75535,
+                75533
+            ],
+            "Nombre": "OSCILOSCOPIO ANALOGO O DIGITAL DE 30MHZ",
+            "Cantidad": 2,
+            "Marca": "DE LORENZO",
+            "Funcion": "Desviar un haz de electrones por medio de creaciones de campos eléctricos y magnéticos",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "INTERVENCIÓN FISICA",
+            "Responsable": "Lyda Maritza Diaz Plata",
+            "Inventario": [
+                131025
+            ],
+            "Nombre": "TANQUE HIDROCOLECTOR ",
+            "Cantidad": 1,
+            "Marca": "N/A",
+            "Funcion": "calienta efectivamente las bolsas de calor húmedo hasta 77c en un baño de agua caliente aislado, el cuál evita que el calor se disipe fuera de la unidad, esta hecho de acero inoxidable duradero.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "INTERVENCIÓN FISICA",
+            "Responsable": "Lyda Maritza Diaz Plata",
+            "Inventario": [
+                59621
+            ],
+            "Nombre": "TANQUE PARA PAQUETES FRIOS INCLUYE 10 PAQUETES FRIOS DE DIFERENTES TAMAñOS",
+            "Cantidad": 1,
+            "Marca": "N/A",
+            "Funcion": "Intercambiador de calor con sistema de espirales y bobinas de refrigeración en aluminio en todo el volumen de congelamiento, para enfriamiento acelerado.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "INTERVENCIÓN FISICA",
+            "Responsable": "Lyda Maritza Diaz Plata",
+            "Inventario": [
+                62240
+            ],
+            "Nombre": "UPS , MODELO VGD-1000LCD DE 1000 VA",
+            "Cantidad": 1,
+            "Marca": "POWERCOM",
+            "Funcion": "Proteger cargas críticas en aplicaciones industriales donde los transitorios de voltaje, creados por un suministro de red degradado",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "ELECTRODIAGNÓSTICO",
+            "Responsable": "Maria Solange Patiño",
+            "Inventario": [
+                143993
+            ],
+            "Nombre": "SISTEMA PARA ELECTRODIAGNOSTICO EN ELECTROMIOGRAFIA ",
+            "Cantidad": 1,
+            "Marca": "NICOLET",
+            "Funcion": "Mide la actividad eléctrica en los músculos durante ciertos movimientos",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "ELECTRODIAGNÓSTICO",
+            "Responsable": "Maria Solange Patiño",
+            "Inventario": [
+                58640
+            ],
+            "Nombre": " UPS POWERCOM ONDA ESCALONADA CON REGULADOR DE VOLTAJE BNT600",
+            "Cantidad": 1,
+            "Marca": "POWERCOM",
+            "Funcion": "Sistema avanzado de protección contra sobre descargas. Cuenta con baterías internas que le permiten hasta 6 minutos de autonomía ante cortes de energía.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "ELECTRODIAGNÓSTICO",
+            "Responsable": "Maria Solange Patiño",
+            "Inventario": [
+                61197
+            ],
+            "Nombre": "UPS VANGUARD MONOFASICA TIPO TRUE ON LINE DOBLE CONVERSION, ONDA SENOIDAL AUTONOMIA MEDIA/PLENA 20/7 MINUTOS ",
+            "Cantidad": 1,
+            "Marca": "POWERCOM",
+            "Funcion": "Doble conversión en línea; ofrece una protección superior contra cortes eléctricos y acondicionamiento del suministro en un diseño compacto en rack/torre. ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "ELECTRODIAGNÓSTICO",
+            "Responsable": "Maria Solange Patiño",
+            "Inventario": [
+                59188
+            ],
+            "Nombre": "ELECTROMIOGRAFIA MODELO COMPASS MERIDIAN MONITOR LG-CPU LG-IMPRESORA 3650 ",
+            "Cantidad": 1,
+            "Marca": "HEWLET PACKARD ",
+            "Funcion": "Los monitores de diagnósticos médico de LG brindan una calidad óptima de imagen. Las pantallas IPS con brillo de 1000 nits (típ.) facilitan el diagnóstico preciso de las imágenes médicas permitiendo a los médicos distinguir incluso los pequeños detalles con facilidad. ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "ELECTRODIAGNÓSTICO",
+            "Responsable": "Lyda Maritza Diaz Plata",
+            "Inventario": [
+                62434
+            ],
+            "Nombre": "ESTIMULADOR ELECTRICO SJ403, EQUIPO EP/EMG, MODELO: COMPASS, 842-115000  ",
+            "Cantidad": 1,
+            "Marca": "NICOLET",
+            "Funcion": "Combina la función tens (estimulación nerviosa eléctrica transcutánea) y ems (estimulación muscular eléctrica). Tiene la función de aliviar el dolor muscular y articular (tens) y dar forma y aumentar la fuerza muscular (ems). ",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "CONTROL MOTOR",
+            "Responsable": "BACCA RAMIREZ ODAIR",
+            "Inventario": [
+                132942
+            ],
+            "Nombre": "GRUA DE BIPEDESTACION GTD 150 ELECTRICA.",
+            "Cantidad": 1,
+            "Marca": "ATLAS",
+            "Funcion": "Diseñada especialmente para facilitar la incorporación de una persona desde cualquier tipo de asiento o silla de ruedas,Dispone de un motor de 24V 8000 N ",
+            "Procedencia": "Nacional"
+        }
+    ]
+}
