@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en" title="Coding design">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Core facilities</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/sideBar.css">
+    <link rel="stylesheet" href="../css/tabla.css">
+    <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+    
+    <nav class="sidebar close">
+        <header>
+            <div class="image-text">
+                <span class="image">
+                    <img src="https://www.universidadesonline.com.co/logos/original/logo-universidad-industrial-de-santander.png" alt="">
+                </span>
+                <div class="text logo-text">
+                    <span class="name">Core facilities</span>
+                    <span class="profession">UIS</span>
+                </div>
+            </div>
+            <i class='bx bx-chevron-right toggle'></i>
+        </header>
+        <div class="menu-bar">
+            <div class="menu">
+                <ul class="menu-links">
+                    <li class="nav-link">
+                        <a href="../Inicio/index.html">
+                            <i class="bi bi-houses-fill icon"></i>
+                            <span class="text nav-text">Inicio</span>
+                        </a>
+                    </li>
+                    <li class="nav-link active">
+                        <a href="./index.html">
+                            <i class="bi bi-capsule icon"></i>
+                            <span class="text nav-text">Enfermeria</span>
+                        </a>
+                    </li>
+                    <li class="nav-link">
+                        <a href="../Microbiologia/index.html">
+                            <i class="bi bi-virus icon"></i>
+                            <span class="text nav-text">Microbiologia</span>
+                        </a>
+                    </li>
+                    <li class="nav-link">
+                        <a href="../Nutricion/index.html">
+                            <i class="bi bi-apple icon"></i>
+                            <span class="text nav-text">Nutricion</span>
+                        </a>
+                    </li>
+                    <li class="nav-link">
+                        <a href="../Fisioterapia/index.html">
+                            <i class="bi bi-person-heart icon"></i> 
+                            <span class="text nav-text">Fisioterapia</span>
+                        </a>
+                    </li>
+                    <li class="nav-link">
+                        <a href="../Medicina/index.html">
+                            <i class='bi bi-heart-pulse-fill icon' ></i>
+                            <span class="text nav-text">Medicina</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="bottom-content">
+                <li class="mode">
+                    <div class="sun-moon">
+                        <i class='bx bx-moon icon moon'></i>
+                        <i class='bx bx-sun icon sun'></i>
+                    </div>
+                    <span class="mode-text text">Dark mode</span>
+                    <div class="toggle-switch">
+                        <span class="switch"></span>
+                    </div>
+                </li>
+            </div>
+        </div>
+    </nav>
+
+    <div class="btnAdd">
+        <button type="button" class="addCategory" data-bs-toggle="modal" data-bs-target="#exampleModal">
+            <span class="addCategory__text">Add</span>
+            <span class="addCategory__icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" viewBox="0 0 24 24" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" height="24" fill="none" class="svg"><line y2="19" y1="5" x2="12" x1="12"></line><line y2="12" y1="12" x2="19" x1="5"></line></svg></span>
+        </button>
+        </div>
+    
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h1 class="modal-title fs-5 modaltitulo" id="exampleModalLabel">Agregar Ciclista</h1>
+                    </div>
+                    <div class="modal-body">
+                        <form class="formularios" id="formDatos">
+                            <div class="mb-3">
+                                <label for="Nombre_Laboratorio" class="form-label">Nombre del Laboratorio: </label>
+                                <input type="text" class="form-control" id="Nombre_Laboratorio" placeholder="Ingrese nombre del laboratorio">
+                            </div>
+                            <div class="mb-3">
+                                <label for="Responsable" class="form-label">Responsable: </label>
+                                <input type="text" class="form-control" id="Responsable" placeholder="Ingrese el responsable">
+                            </div>
+                            <div class="mb-3">
+                                <label for="Inventario" class="form-label">Inventario: </label>
+                                <input type="text" class="form-control" id="Inventario" placeholder="Ingrese el inventario (separado por comas)">
+                            </div>
+                            <div class="mb-3">
+                                <label for="Nombre" class="form-label">Nombre: </label>
+                                <input type="text" class="form-control" id="Nombre" placeholder="Ingrese el nombre">
+                            </div>
+                            <!-- <div class="mb-3">
+                                <label for="Cantidad" class="form-label">Cantidad: </label>
+                                <input type="number" class="form-control" id="Cantidad" placeholder="Ingrese la cantidad">
+                            </div> -->
+                            <div class="mb-3">
+                                <label for="Marca" class="form-label">Marca: </label>
+                                <input type="text" class="form-control" id="Marca" placeholder="Ingrese la marca">
+                            </div>
+                            <div class="mb-3">
+                                <label for="Funcion" class="form-label">Función: </label>
+                                <input type="text" class="form-control" id="Funcion" placeholder="Ingrese la función">
+                            </div>
+                            <div class="mb-3">
+                                <label for="Procedencia" class="form-label">Procedencia: </label>
+                                <input type="text" class="form-control" id="Procedencia" placeholder="Ingrese la procedencia">
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary btnForm" data-bs-dismiss="modal">Cerrar</button>
+                                <button type="submit" class="btn btn-primary btnForm" id="addButton">Add</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <!-- Modal de edición -->
+    <div class="modal fade" id="modalUpdate" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5 modaltitulo" id="exampleModalLabel">Editar Fisioterapia</h1>
+                </div>
+                <div class="modal-body">
+                    <form class="formularios" id="formEditEnfermeria">
+                        <div class="mb-3">
+                            <label for="Nombre_Laboratorio_Edit" class="form-label">Nombre del Laboratorio: </label>
+                            <input type="text" class="form-control" id="Nombre_Laboratorio_Edit" placeholder="Ingrese nombre del laboratorio">
+                        </div>
+                        <div class="mb-3">
+                            <label for="Responsable_Edit" class="form-label">Responsable: </label>
+                            <input type="text" class="form-control" id="Responsable_Edit" placeholder="Ingrese el responsable">
+                        </div>
+                        <div class="mb-3">
+                            <label for="Inventario_Edit" class="form-label">Inventario: </label>
+                            <input type="text" class="form-control" id="Inventario_Edit" placeholder="Ingrese el inventario (separado por comas)">
+                        </div>
+                        <div class="mb-3">
+                            <label for="Nombre_Edit" class="form-label">Nombre: </label>
+                            <input type="text" class="form-control" id="Nombre_Edit" placeholder="Ingrese el nombre">
+                        </div>
+                        <div class="mb-3">
+                            <label for="Marca_Edit" class="form-label">Marca: </label>
+                            <input type="text" class="form-control" id="Marca_Edit" placeholder="Ingrese la marca">
+                        </div>
+                        <div class="mb-3">
+                            <label for="Funcion_Edit" class="form-label">Función: </label>
+                            <input type="text" class="form-control" id="Funcion_Edit" placeholder="Ingrese la función">
+                        </div>
+                        <div class="mb-3">
+                            <label for="Procedencia_Edit" class="form-label">Procedencia: </label>
+                            <input type="text" class="form-control" id="Procedencia_Edit" placeholder="Ingrese la procedencia">
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary btnForm" data-bs-dismiss="modal">Cerrar</button>
+                            <button type="submit" class="btn btn-primary btnForm">Guardar cambios</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <main>
+        <h1 class="on">Enfermeria</h1>
+        <div class="mb-3">
+            <input type="text" id="search-input" class="form-control" placeholder="Search...">
+        </div>
+        <div id="error-message" class="alert alert-danger" style="display: none;"></div>
+        <table class="tabla-desktop">
+            <thead class="bg-lightblue">
+                <tr>
+                    <th>#</th>
+                    <th>Nombre del Laboratorio</th>
+                    <th>Responsable</th>
+                    <th>Inventario</th>
+                    <th>Nombre</th>
+                    <th>Cantidad</th>
+                    <th>Marca</th>
+                    <th>Función</th>
+                    <th>Procedencia</th>
+                    <th>Costo</th>
+                    <th>Borrar</th>
+                    <th>Editar</th>
+                </tr>
+            </thead>
+            <tbody id="table-body">
+                <!-- Las filas generadas se insertarán aquí -->
+            </tbody>
+        </table>
+    </main>
+
+ 
+</body>
+    <script src="../js/sideBar.js"></script>
+    <script src="./enfermeria.js" type="module"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+</html>

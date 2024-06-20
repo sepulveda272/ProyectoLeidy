@@ -1,0 +1,31 @@
+.body, 
+* {
+    /*margin: 0;
+    padding: 0;*/ /*Estarian asi temporalmente, usando el margen de descarte de css*/ 
+    box-sizing: border-box;
+}
+.tabla-desktop {
+    width: 100%;
+    border-collapse: collapse;
+}
+.tabla-desktop tr th {
+    background-color: rgb(154, 253, 6);
+    color: white;
+    border: 1px solid #bbb8b8;
+    padding: 5px;
+    text-align: center
+}
+.tabla-desktop tr td{
+    border: 1px solid #bbb8b8;
+    padding: 5px;
+    text-align: left;
+}
+
+.tabla-desktop tr:nth-last-of-type(odd){
+    background-color: #f2f2f2;
+}
+.on{
+    width: 100%;
+    text-align: center;
+    color: #4d4848;
+}
