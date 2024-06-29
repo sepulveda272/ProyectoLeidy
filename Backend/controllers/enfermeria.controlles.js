@@ -44,7 +44,7 @@ export const addEnfermeria = async (req, res) => {
   
       await db.Enfermeria.insertOne(nuevaEnfermeria);
   
-      res.json(nuevaEnfermeria);
+      res.json({ message: "Se ha registrado correctamente el enfermeria", nuevaEnfermeria });
     } catch (error) {
       console.log(error);
       res.status(500).json({ error: "Hubo un error al agregar la enfermeria" });
