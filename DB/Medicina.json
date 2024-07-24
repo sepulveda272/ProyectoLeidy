@@ -1,5 +1,513 @@
 {
-    "Medicina":[
-        
+    "Medicina": [
+        {
+            "Nombre_Laboratorio": "PATOLOGIA MICRO",
+            "Responsable": "JULIO CESAR MANTILLA HERNANDEZ",
+            "Inventario": [
+                55762,
+                55763,
+                55764,
+                55765,
+                55766,
+                55767,
+                55768,
+                55769,
+                55770,
+                55771,
+                55772,
+                55773,
+                55774,
+                55775,
+                55776
+            ],
+            "Nombre": "MICROSCOPIO BINOCULAR CH-20 CENTERABLE AUXILIARY LENS FOR CH3-AL CH3-FS FIEL IRIS DIAPRAGM",
+            "Cantidad": 15,
+            "Marca": "OLYMPUS",
+            "Funcion": "El microscopio binocular CH-20 con lente auxiliar centrable para CH3-AL y CH3-FS y diafragma de iris de campo se utiliza para la observación detallada de muestras biológicas y materiales. Permite ajustes precisos y mejora la calidad de la imagen.",
+            "Procedencia": "Internacional"
+        },
+        {
+            "Nombre_Laboratorio": "PATOLOGIA MICRO",
+            "Responsable": "JULIO CESAR MANTILLA HERNANDEZ",
+            "Inventario": [
+                69020,
+                69021,
+                69022,
+                69024,
+                69026,
+                69027,
+                69029,
+                69031,
+                69034
+            ],
+            "Nombre": "MICROSCOPIO BINOCULAR 3 OBJETIVOS MODELO CX31",
+            "Cantidad": 9,
+            "Marca": "OLYMPUS",
+            "Funcion": "El microscopio binocular modelo CX31 con 3 objetivos se utiliza para la observación detallada de muestras biológicas y materiales, ofreciendo imágenes claras y precisas gracias a sus múltiples objetivos intercambiables.",
+            "Procedencia": "Internacional"
+        },
+        {
+            "Nombre_Laboratorio": "PATOLOGIA MICRO",
+            "Responsable": "JULIO CESAR MANTILLA HERNANDEZ",
+            "Inventario": [
+                69038,
+                69039,
+                69040,
+                69042
+            ],
+            "Nombre": "MICROSCOPIO TRINOCULAR 4 OBJETIVOS MODELO CX31",
+            "Cantidad": 4,
+            "Marca": "OLYMPUS",
+            "Funcion": "El microscopio trinocular modelo CX31 con 4 objetivos se utiliza para la observación detallada de muestras biológicas y materiales, permitiendo tanto la visualización directa como la captura de imágenes con una cámara. Este equipo es reconocido por su precisión y calidad.",
+            "Procedencia": "Internacional"
+        },
+        {
+            "Nombre_Laboratorio": "PATOLOGIA MICRO",
+            "Responsable": "JULIO CESAR MANTILLA HERNANDEZ",
+            "Inventario": [
+                69044
+            ],
+            "Nombre": "MICROSCOPIO DE DOBLE OBSERVACION 3 OBJETIVOS MODELO CX31",
+            "Cantidad": 1,
+            "Marca": "OLYMPUS",
+            "Funcion": "El microscopio de doble observación modelo CX31 con 3 objetivos se utiliza en entornos educativos y de investigación, permitiendo que dos personas observen simultáneamente la misma muestra biológica o material.",
+            "Procedencia": "Internacional"
+        },
+        {
+            "Nombre_Laboratorio": "PATOLOGIA MICRO",
+            "Responsable": "JULIO CESAR MANTILLA HERNANDEZ",
+            "Inventario": [
+                87741,
+                87742,
+                87743,
+                87745,
+                87746
+            ],
+            "Nombre": "MICROSCOPIO BINOCULAR MODELO CX 21 CODIGO 15 CX21FS15",
+            "Cantidad": 5,
+            "Marca": "OLYMPUS",
+            "Funcion": "El microscopio binocular modelo CX 21 con código 15 CX21FS15 se utiliza para la observación detallada de muestras biológicas, ofreciendo imágenes claras y precisas a través de sus oculares binoculares.",
+            "Procedencia": "Internacional"
+        },
+        {
+            "Nombre_Laboratorio": "PATOLOGIA MICRO",
+            "Responsable": "JULIO CESAR MANTILLA HERNANDEZ",
+            "Inventario": [
+                124138
+            ],
+            "Nombre": "MICROSCOPIO TRINOCULAR BX43TRILED50BS MICROSCOPIO BX43 TRINOCULAR CON 4 OBJETIVOS ACROMATICOS DE CAMPO CLARO, CONDENSADOR SWING OUT DE ALTA Y BAJA MAGNIFICACION, SISTEMA DE ILUMINACION LED, 5 ACCESORIOS DE MULTIOBSERVACION.",
+            "Cantidad": 1,
+            "Marca": "OLYMPUS",
+            "Funcion": "Se utiliza en laboratorios avanzados para la observación detallada y la captura de imágenes de muestras biológicas. Sus objetivos planacromáticos aseguran alta calidad y precisión en la visualización.",
+            "Procedencia": "Internacional"
+        },
+        {
+            "Nombre_Laboratorio": "PATOLOGIA MICRO",
+            "Responsable": "JULIO CESAR MANTILLA HERNANDEZ",
+            "Inventario": [
+                124139
+            ],
+            "Nombre": "CAMARA DE MICROSCOPIO CAMARA DP-73 Y ACCESORIOS, CAMARA COLOR 17MEGAPIXELES MARCA OLYMPUS. ALTA FIDELIDAD DE LA IMAGEN. ALTA DEFINICION DEL COLON, SENSOR CCD DE TAMAÑO 1/1.8 PULGADAS. VELOCIDAD MINIMA DE VIDEO ENTRE 25 Y 12 CUADROS X SEG. CAPACIDAD PARA ALMACENAR IMÁGENES EN COMPUTADOR, USB. SOFTWARE PARA TRATAMIENTO DIGITAL DE IMÁGENES.",
+            "Cantidad": 1,
+            "Marca": "OLYMPUS",
+            "Funcion": "Se utiliza para capturar imágenes de alta fidelidad y definición de muestras biológicas observadas a través de un microscopio. Equipada con un sensor CCD de 1/1.8 pulgadas y una velocidad mínima de video entre 25 y 12 cuadros por segundo, permite almacenar imágenes en una computadora mediante USB y cuenta con software para el tratamiento digital de imágenes.",
+            "Procedencia": "Internacional"
+        },
+        {
+            "Nombre_Laboratorio": "PATOLOGIA MICRO",
+            "Responsable": "JULIO CESAR MANTILLA HERNANDEZ",
+            "Inventario": [
+                132931,
+                132932,
+                132933,
+                132934,
+                132935
+            ],
+            "Nombre": "MICROSCOPIO ESPACIAL MICROSCOPIO BINOCULAR REF13613215, MODELO DM500LED 110V/60HZ",
+            "Cantidad": 5,
+            "Marca": "LEICA",
+            "Funcion": "Se utiliza para la observación detallada de muestras biológicas, proporcionando imágenes claras gracias a su iluminación LED. Este equipo, diseñado para ofrecer precisión y durabilidad.",
+            "Procedencia": "Internacional"
+        },
+        {
+            "Nombre_Laboratorio": "PATOLOGIA MICRO",
+            "Responsable": "JULIO CESAR MANTILLA HERNANDEZ",
+            "Inventario": [
+                132936
+            ],
+            "Nombre": "MICROSCOPIO INVERTIDO MICROSCOPIO LEICA DM500CON CAMARA ICC500W ICLUYE CABLE USB Y HDMI Y EL DISCO CON EL SOFTWARE ALIMENTACION MEDIANTE USB 5V/2A CONTROL REMOTO RC3",
+            "Cantidad": 1,
+            "Marca": "LEICA",
+            "Funcion": "Se utiliza para la observación detallada de muestras biológicas en laboratorios, ofreciendo la capacidad de capturar imágenes digitales de alta calidad y controlar el proceso de observación de manera remota.",
+            "Procedencia": "Internacional"
+        },
+        {
+            "Nombre_Laboratorio": "BIOQUIMICA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                60419
+            ],
+            "Nombre": "CONGELADOR WHIRLPOOL REF. EV200NXKQ",
+            "Cantidad": 1,
+            "Marca": "WHIRLPOOL",
+            "Funcion": "Cuenta con funcionamiento Dual Cooling que permite elegir la temperatura para refrigerar o congelar, desde 5° hasta -30°, con 2 puertas para fácil acceso y ergonomía, control mecánico exterior, drenaje manual, luz LED interior, y canastilla deslizable de almacenamiento.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "BIOQUIMICA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                61445
+            ],
+            "Nombre": "IMPRESORA LASER",
+            "Cantidad": 1,
+            "Marca": "HEWLET PACKARD",
+            "Funcion": "Genera imágenes y textos en papel de alta calidad. Su funcionamiento se basa en un proceso que implica la carga electrostática de un tambor fotosensible y la proyección de un rayo láser sobre él.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "BIOQUIMICA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                151300
+            ],
+            "Nombre": "MICROSCOPIO TRINOCULAR ILUMINACION LED CON CAMARA",
+            "Cantidad": 1,
+            "Marca": "OLYMPUS",
+            "Funcion": "Permite que dos observadores vean la muestra simultáneamente a través de los oculares, mientras que el tercer tubo permite la conexión de equipos de fotografía, cámaras digitales o sistemas de captura de imágenes.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "BIOQUIMICA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                151433,
+                151434,
+                151435
+            ],
+            "Nombre": "MICROPIPETA DE 2-20 L, CORNING 4072, VOLUMEN VARIABLE, AUTOCLAVABLE",
+            "Cantidad": 1,
+            "Marca": "CORNING",
+            "Funcion": "Es una herramienta para laboratorio que requiera la medición precisa y la transferencia de líquidos en el rango de microlitros.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "BIOQUIMICA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                168408
+            ],
+            "Nombre": "AGITADOR VORTEX V1 PLUS REF: BOE8055100 MARCA: BOECO. COTIZACIÓN # SO16536 (PTG EDI 208)",
+            "Cantidad": 1,
+            "Marca": "BOECO",
+            "Funcion": "Mezclar pequeños viales de líquido.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "BIOQUIMICA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                153345
+            ],
+            "Nombre": "EQUIPO 2304MF25SSSAEETS CONGELADOR PARA LABORATORIO",
+            "Cantidad": 1,
+            "Marca": "THERMO",
+            "Funcion": "La temperatura de funcionamiento puede variar de -45 °C a -89 °C. Varias características hacen que un ultracongelador sea una solución extremadamente fiable para la investigación de laboratorio.",
+            "Procedencia": "Exterior"
+        },
+        {
+            "Nombre_Laboratorio": "BIOQUIMICA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                170946
+            ],
+            "Nombre": "UNIDAD DE ELECTRO TRANFERENCIA HUMEDA DE PROTEINAS. (PTG EDI 208)",
+            "Cantidad": 1,
+            "Marca": "BIO RAD",
+            "Funcion": "Es una técnica analítica bien establecida para detectar, analizar y cuantificar proteínas.",
+            "Procedencia": "Exterior"
+        },
+        {
+            "Nombre_Laboratorio": "BIOQUIMICA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                170947
+            ],
+            "Nombre": "TERMOCICLADOR DE PUNTO FINAL",
+            "Cantidad": 1,
+            "Marca": "",
+            "Funcion": "Permite detectar y controlar fragmentos de ADN de interés.",
+            "Procedencia": "Exterior"
+        },
+        {
+            "Nombre_Laboratorio": "BIOQUIMICA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                172392
+            ],
+            "Nombre": "AUTOCLAVE HORIZONTAL 40L (PTG EDI 208)",
+            "Cantidad": 1,
+            "Marca": "JPINGLOBAL",
+            "Funcion": "Esterilizar cristalería de laboratorio, recipientes y recipientes de plástico, placas de Petri, instrumentos sin envolver, medios y cargas ocasionales de descarte.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "BIOQUIMICA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                173692
+            ],
+            "Nombre": "ESTUFA DE LABORATORIO ED-56 VOL 57 LITROS, CONVECCION NATURAL. (PTG EDI 208)",
+            "Cantidad": 1,
+            "Marca": "BINDER",
+            "Funcion": "Tareas rutinarias de secado y esterilización a temperaturas de hasta +300 °C. Gracias a la convección natural, en esta cámara de secado todos los procesos térmicos se desarrollan con la máxima eficiencia. La serie ED proporciona un secado rápido y homogéneo.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "BIOQUIMICA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                173914
+            ],
+            "Nombre": "ULTRACONGELADOR VERTICAL DE -40 A -86C, 388 LITROS. (PTG EDI 208)",
+            "Cantidad": 1,
+            "Marca": "HAIER BIOMEDICAL",
+            "Funcion": "Almacenamiento de muestras a temperaturas ultra bajas, como por ejemplo en los laboratorios de biología molecular, donde es necesario almacenar muestras de ADN, ARN o proteínas.",
+            "Procedencia": "Exterior"
+        },
+        {
+            "Nombre_Laboratorio": "BIOQUIMICA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                174941
+            ],
+            "Nombre": "BOMBA DE VACIO POR DIAFRAGMA CON MANOMETRO DE 1/6 HP MOD 400",
+            "Cantidad": 1,
+            "Marca": "ROCKER",
+            "Funcion": "Útil para equipos de filtración, Erlenmeyer para vacío, desecadores y otros usos de laboratorio. Adecuados para usos generales sin aspirar gases agresivos. Funcionamiento silencioso.",
+            "Procedencia": "Exterior"
+        },
+        {
+            "Nombre_Laboratorio": "BIOTERIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                168128
+            ],
+            "Nombre": "EQUIPO BANO SEROLOGICO/ AGUA DE 7 LITROS, MEMMERT 115V -MEMMERT REF. WTB6 (PTG EDI 208)",
+            "Cantidad": 1,
+            "Marca": "MEMMERT",
+            "Funcion": "Templar pomadas, emulsiones, muestras, placas y medios de cultivo en laboratorios, así como la conservación en caliente y la calibración en la industria.",
+            "Procedencia": ""
+        },
+        {
+            "Nombre_Laboratorio": "BIOTERIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                168409
+            ],
+            "Nombre": "MINI CENTRIFUGA MODELO M-6 REF BOE8074100 MARCA: BOECO (PTG EDI 208)",
+            "Cantidad": 1,
+            "Marca": "BOECO",
+            "Funcion": "Ideal para centrifugación de microtubos, tubos de PCR y tiras de PCR.",
+            "Procedencia": ""
+        },
+        {
+            "Nombre_Laboratorio": "BIOTERIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                168454
+            ],
+            "Nombre": "PIPETEADOR CORNING® LAMBDA® PLUS 12-CHANNEL PIPETTOR VOLUME 50-300 .L CORNING REF. 4087 -COT. 20211307-2",
+            "Cantidad": 1,
+            "Marca": "CORNING",
+            "Funcion": "Es un aparato especialmente útil en los laboratorios del cultivo celular y los laboratorios serológicos. El microfiltro que protege el interior del pipeteador contra un derrame accidental, las suciedades mecánicas, químicas y bacteriológicas.",
+            "Procedencia": "Exterior"
+        },
+        {
+            "Nombre_Laboratorio": "BIOTERIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                170861
+            ],
+            "Nombre": "CENTRÍFUGA SORVALL ST8R, ROTOR BASCULANTE TX-150, CESTILLOS REDONDOS PARA ROTOR TX-150 X 4 UNIDADES, TAPAS DE BIOCONTENCIÓN CLICKSEAL X 4 UNIDADES ADAPTADORES PARA TUBOS CÓNICOS O CON FALDILLA DE 50 ML X 4 UNIDADES. ADAPTADORES PARA TUBOS CÓNICOS DE 15 ML X 4 UNIDADES. (PTG EDI 208)",
+            "Cantidad": 1,
+            "Marca": "THERMO SCIENTIFIC",
+            "Funcion": "Estas centrífugas brindan una capacidad excepcional en un diseño compacto con una interfaz simple e inteligente y la flexibilidad para admitir numerosas aplicaciones.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "BIOTERIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                173693
+            ],
+            "Nombre": "CABINA DE BIOSEGURIDAD NIVEL II DE 1.2 MTRS. (PTG EDI 208 PENDIENTE STICKER)",
+            "Cantidad": 1,
+            "Marca": "ESCO",
+            "Funcion": "Provee protección para el producto, el operador y medio ambiente. La entrada de aire del cuarto entra en la parte delantera para establecer la protección de operador; este aire no entra en la zona de trabajo, previniendo la contaminación de producto.",
+            "Procedencia": "Exterior"
+        },
+        {
+            "Nombre_Laboratorio": "BIOTERIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                174213
+            ],
+            "Nombre": "ANALGESIMETRO SISTEMA DE PRESION EN LA PATA/COLA - RANDALL SELITTO UNIDAD DE CONTROL ESTIMULO INCLUYE LOS ELEMENTOS DESCRITOS EN LA COTIZACION NO. 33733 PTG LAB 208",
+            "Cantidad": 1,
+            "Marca": "",
+            "Funcion": "El medidor de presión de pata y prueba Panlab LE7306 se utiliza para realizar la prueba de Randall y Selitto en roedores.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "BIOTERIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                174214
+            ],
+            "Nombre": "ANALGESIMETRO PLACA CALIENTE HOT PLATE UNIDAD DE CONTROL CON SOFTWARE SEDACOM Y DEMAS ELEMENTOS QUE INCLUYE LA COTIZACION N. 33733 PTG LAB 208",
+            "Cantidad": 1,
+            "Marca": "",
+            "Funcion": "Detectar las propiedades analgésicas de las drogas en roedores. También se utiliza para estudiar los cambios de la sensibilidad al dolor en respuesta a manipulaciones experimentales o genéticas.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "BIOTERIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                174613
+            ],
+            "Nombre": "SISTEMA DE RACK DE MANTENIMIENTO DE ANIMALES (ROEDORES) - SISTEMA COMPLETO 2H30B1000 - SEGUN COTIZACION EQUIPOS BIOTERIOS N. 0015-2022",
+            "Cantidad": 1,
+            "Marca": "BIOSOLUCIONES SAS",
+            "Funcion": "Se define como equipo aislador eficiente con inyección individual y directa del aire para alojar ratones.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "BIOTERIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                175019
+            ],
+            "Nombre": "INCUBADORA DE CO2 CALOR DIRECTO SERIE 8000 THERMO SCIENTIFIC - SEGUN ESPECIFICACIONES DE LA COTIZACION N.101915. (PTG)",
+            "Cantidad": 1,
+            "Marca": "THERMO SCIENTIFIC",
+            "Funcion": "Se utiliza para controlar el pH del medio de cultivo celular y para simular una condición lo más realista posible en la que se pueden desarrollar las células.",
+            "Procedencia": "Exterior"
+        },
+        {
+            "Nombre_Laboratorio": "BIOTERIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                175301
+            ],
+            "Nombre": "TANQUE DE NITROGENO LIQUIDO CONTENEDOR DE NITROGENO LIQUIDO INCLUYE 6 CANISTERS (ALTO 276MM), TAPA BLOQUEABLE. CAPACIDAD 20L COTIZACION 25680 V-FPT. PTG.",
+            "Cantidad": 1,
+            "Marca": "HAIER",
+            "Funcion": "Conservación de muestras de laboratorios a temperaturas muy bajas.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                172391
+            ],
+            "Nombre": "BALANZA DIGITAL DE PRECISION CAPACIDAD 3000 G PRECISION 0.1G PTG",
+            "Cantidad": 1,
+            "Marca": "ADAM",
+            "Funcion": "Son instrumentos de pesaje que utilizan la acción de la gravedad para determinar la masa de un objeto.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                174344,
+                174345,
+                174346,
+                174347,
+                174348,
+                174349,
+                174350,
+                174351,
+                174352,
+                174353,
+                174354,
+                174355,
+                174356,
+                174357,
+                174358,
+                174359,
+                174360,
+                174361,
+                174362,
+                174363
+            ],
+            "Nombre": "MICROSCOPIO BINOCULAR MODELO PRIMO STAR MARCA ZEISS.",
+            "Cantidad": 20,
+            "Marca": "CARL ZEISS",
+            "Funcion": "Visualizar estructuras con un tamaño inferior a 0,5 µm, como la bacteria en forma de bastón Mycobacterium tuberculosis, gracias a la excitación de fluorescencia LED y a la iluminación de campo claro de luz transmitida.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                174364,
+                174365,
+                174366,
+                174367,
+                174368,
+                174369,
+                174370
+            ],
+            "Nombre": "TRINOCULAR MODELO PRIMO STAR MARCA ZEISS (SEGUN COTIZACION NO. 7863-2-MC-KY-2022",
+            "Cantidad": 7,
+            "Marca": "ZEISS",
+            "Funcion": "Pantalla de intensidad de luz azul en ambos lados del soporte actúan como una importante Funcion de control sobre todos los microscopios en la salida del curso: para el control por parte del educador y control rápido de la intensidad de luz por parte de los usuarios.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                174371,
+                174372,
+                174373,
+                174374,
+                174375,
+                174376
+            ],
+            "Nombre": "CAMARA MODELO ERC 5S Y ADAPTADORES MARCA ZEISS",
+            "Cantidad": 6,
+            "Marca": "ZEISS",
+            "Funcion": "Estación de imagen autónoma, también se puede utilizar de forma convencional junto con los mecanismos AxioVision. No se necesitan ordenadores ni software para adquirir muestras de imágenes. La cámara tiene cinco megapíxeles y almacena imágenes en tarjetas de memoria en los formatos SD más comunes.",
+            "Procedencia": "Exterior"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                174942
+            ],
+            "Nombre": "LECTOR DE MICROPLACAS MULTIMODAL DE ABSORBANCIA Y FLUORESCENCIA VARIOSKAN LUX CON MONOCROMADOR PARA LAS DOS MEDICIONES Y BARRIDOS COMPLETOS DE 200-1000 NM.",
+            "Cantidad": 1,
+            "Marca": "THERMO SCIENTIFIC",
+            "Funcion": "Tecnologías de medición, incluidas tecnologías de absorbancia, intensidad de fluorescencia, luminiscencia, AlphaScreen y fluorescencia con resolución temporal. El instrumento simplifica la configuración de las mediciones con la selección automática del intervalo dinámico.",
+            "Procedencia": "Nacional"
+        },
+        {
+            "Nombre_Laboratorio": "FISIOLOGIA",
+            "Responsable": "MARIO NEGRETTE GUZMÁN FELIPE",
+            "Inventario": [
+                175166
+            ],
+            "Nombre": "PHMETRO DE MESA, CON SOPORTE PARA ELECTRODO Y FUNCION DE CALIBRACION ORION LAB STAR PH111 PH BENCH METERS THE THERMO SCIENTIFIC ORION LAB STAR PH111 PH/MV (PTG)",
+            "Cantidad": 1,
+            "Marca": "THERMO SCIENTIFIC",
+            "Funcion": "Mida de forma fiable pH, mV, ORP y temperatura con el medidor de pH de sobremesa Thermo Scientific™ Orion™ Star A211 para los análisis de laboratorio avanzados y la interfaz con impresoras u ordenadores.",
+            "Procedencia": "Nacional"
+        }
     ]
 }
