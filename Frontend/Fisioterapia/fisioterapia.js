@@ -8,7 +8,16 @@ document.addEventListener("DOMContentLoaded", () => {
     const searchTerm = searchInput.value.toLowerCase();
     mostrarLista(searchTerm);
   });
+
+  document.getElementById("downloadExcel").addEventListener("click", exportTableToExcel);
 });
+
+function exportTableToExcel() {
+  const table = document.querySelector(".tabla-desktop");
+  const workbook = XLSX.utils.table_to_book(table, {sheet: "Sheet1"});
+  XLSX.writeFile(workbook, "tabla_fisioterapia.xlsx");
+}
+
 
 /* LISTAR CATEGORIAS - CRUD (R) */
 async function mostrarLista(searchTerm = "") {
@@ -28,8 +37,11 @@ async function mostrarLista(searchTerm = "") {
     const filteredDatos2 = datos.filter(item => 
       item.Nombre.toLowerCase().includes(searchTerm.toLowerCase())
     );
+    const filteredDatos3 = datos.filter(item => 
+      item.Responsable.toLowerCase().includes(searchTerm.toLowerCase())
+    );
 
-    const combinedFilteredDatos = [...new Set([...filteredDatos, ...filteredDatos1, ...filteredDatos2])];
+    const combinedFilteredDatos = [...new Set([...filteredDatos, ...filteredDatos1, ...filteredDatos2, ...filteredDatos3])];
 
     if (combinedFilteredDatos.length === 0) {
       errorMessage.textContent = "No se encuentra lo que busca, verifica bien.";
@@ -38,6 +50,8 @@ async function mostrarLista(searchTerm = "") {
     } else {
       errorMessage.style.display = "none";
       table.style.display = "table";
+
+      let totalCantidad = 0
 
       combinedFilteredDatos.forEach((item, index) => {
         const {
@@ -52,6 +66,8 @@ async function mostrarLista(searchTerm = "") {
           _id,
         } = item;
 
+        totalCantidad += Number(Cantidad) || 0;
+
         tbody.innerHTML += `
           <tr>
             <td>${index + 1}</td>
@@ -64,11 +80,15 @@ async function mostrarLista(searchTerm = "") {
             <td>${Funcion}</td>
             <td>${Procedencia}</td>
             <td>-</td>
+            <td>-</td>
             <td><button type="click" class="btn btn-danger eliminar" data-id="${_id}">Eliminar</button></td>
             <td><button type="click" class="btn btn-success update" data-id="${_id}" data-bs-toggle="modal" data-bs-target="#modalUpdate">Editar</button></td>
           </tr>
         `;
       });
+
+      document.querySelector("#total-cantidad").textContent = totalCantidad
+
     }
   } else {
     console.error("Datos no son un arreglo:", datos);
